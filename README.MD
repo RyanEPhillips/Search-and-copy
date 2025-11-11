@@ -16,3 +16,7 @@ This Python script copies all `.mp3` files from a **source folder** to a **desti
    ```python
    source_folder = "C:\\Path\\To\\Source"
    destination_folder = "C:\\Path\\To\\Destination"
+
+   bash
+   '''
+   python Search_Copy.py
